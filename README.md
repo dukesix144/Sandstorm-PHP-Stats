@@ -1,19 +1,14 @@
-# Project Name
-
-## About
-
-This project, **Squad-SDK-blueprints**, is designed to [briefly describe the project's purpose and functionality]. It was built to [mention any unique features, frameworks, or intended purpose of the project]. This project aims to [highlight the main objectives, like providing a tool, solving a specific problem, automating tasks, etc.].
-
-Key features:
-- **Feature 1:** Describe a key feature.
-- **Feature 2:** Describe another key feature.
-- **Feature 3:** Describe additional features if necessary.
+This project, **Sandstorm-PHP-Stats**: is for transferring a log file from a remote server and parsing the log for player stats.
 
 ## Usage
 
-To get started with **Project Name**, follow the steps below:
+To get started with **Sandstorm-PHP-Stats**, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/dukesix144/Sandstorm-PHP-Stats.git
 
+2. Update config information in sandstorm.py and sand_elo_calc.py.
+3. Set cron jobs to run the python 3 scripts.
+
+<img src="">
